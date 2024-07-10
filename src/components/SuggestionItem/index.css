@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.arrow-img {
+  height: 20px;
+  width: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.bottom-con {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
